@@ -11,9 +11,10 @@ Bash
 Vim
 ---
 
-Setup:
+### Setup: ###
 
 `$ ln -s dotfiles/vimrc .vimrc`
+
 `$ ln -s dotfiles/vim .vim`
 
 1. Bundles configured with Pathogen
@@ -31,5 +32,9 @@ Setup:
 
 Screen
 ------
+
+### Setup: ###
+
+`$ ln -s dotfiles/screenrc .screenrc`
 
 - Fix Backspace, Delete ^H issue
