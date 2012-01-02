@@ -1,2 +1,7 @@
 bindkey -d ^? stuff ^H
 bindkey -d ^@ stuff ^H
+
+vbell off
+defscrollback 1000
+
+term screen-256color
