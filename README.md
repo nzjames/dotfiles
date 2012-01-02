@@ -8,6 +8,15 @@ Dot Files
 Bash
 ----
 
+### Setup: ###
+
+`$ ln -s dotfiles/bashrc-debian6 .bashrc`
+
+`$ ln -s dotfiles/bashrc .bashrc_aliases`
+
+- Debian has a comprehensive default .bashrc sourced as the primary .bashrc
+- Custom settings are in `bashrc` and included by the debian bash rc via `.bashrc_aliases`
+
 Vim
 ---
 
