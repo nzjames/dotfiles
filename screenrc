@@ -1,0 +1,2 @@
+bindkey -d ^? stuff ^H
+bindkey -d ^@ stuff ^H
