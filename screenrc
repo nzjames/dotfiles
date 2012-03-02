@@ -4,4 +4,4 @@ bindkey -d ^@ stuff ^H
 vbell off
 defscrollback 1000
 
-term screen-256color
+term screen
